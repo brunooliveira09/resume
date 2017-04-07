@@ -13,16 +13,16 @@ style: styles-6
 
 
 #Profile information
-name: Bruno
-tagline: Analista
+name: Bruno Oliveira
+tagline: Analista de requisitos
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: brunooliveira@email.com
+phone: 013 981592146
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
+linkedin: brunooliveira09
+github: brunooliveira09
 twitter: '@webjeda'
 
 
