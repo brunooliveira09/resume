@@ -1,5 +1,5 @@
 
-title: Meu currículo
+title: Bruno Oliveira - Currículo
 url: 'https://brunooliveira09.github.io'
 baseurl: '/cv' #change it according to your repository name
 
@@ -14,13 +14,12 @@ style: styles-6
 
 #Profile information
 name: Bruno Oliveira
-tagline: Analista de requisitos
+tagline: Analista de Soluções
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: brunooliveira@email.com
-phone: 19 99487 0222
-website: blog.webjeda.com #do not add http://
+phone: 19 99255 9160
 linkedin: brunooliveira09
 github: brunooliveira09
 twitter: '@oliveirabruno09'
